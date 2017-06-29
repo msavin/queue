@@ -4,7 +4,7 @@ When you create an application, there are many times that you need to create a m
 
 For example, let's say we have an apartment listing website. We need to be able to receive reports of bad listings, and make the decision to pull them down or ignore the request. Alternatively, we might want to have a process to approve or reject them before publishing them to the website.
 
-Queue can help you here with a simple server-side interface for creating various queues, adding items to them, and providing possible responses. How you expose that functionality to the rest of the applications would be completely up to.
+Queue can help you here with a simple server-side interface for creating various queues, adding items to them, and providing possible responses. How you expose that functionality to the rest of the applications would be completely up to you.
 
 # Example Usage
 
